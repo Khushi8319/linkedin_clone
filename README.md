@@ -70,12 +70,10 @@ linkedin_clone/
 │   └── main.jsx
 ├── .gitignore
 ├── index.html
-├── netlify.toml
 ├── package-lock.json
 ├── package.json
 ├── postcss.config.js
 ├── tailwind.config.js
-├── vercel.json
 ├── vite.config.js
 └── README.md
 ```
