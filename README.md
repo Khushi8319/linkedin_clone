@@ -59,9 +59,23 @@ npm run dev
 
 ```text
 linkedin_clone/
-├── public/
+├── node_modules/
 ├── src/
+│   ├── components/
+│   ├── context/
+│   ├── data/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── netlify.toml
+├── package-lock.json
 ├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vercel.json
 ├── vite.config.js
 └── README.md
 ```
